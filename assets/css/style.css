@@ -87,7 +87,7 @@ h6 {
   margin: 15px auto;
   display: block;
   width: 100%;
-  border: 8px solid #2c2f3f;
+  border: 2px solid #2c2f3f;
 }
 
 #header .profile h1 {
@@ -346,7 +346,7 @@ section {
   content: "";
   position: absolute;
   display: block;
-  width: 50px;
+  width: 170px;
   height: 3px;
   background: #149ddd;
   bottom: 0;
